@@ -6,7 +6,7 @@
 - Ventola
 - Riscaldatore (Resistenza)
 - LED (Possibilmente RGB)
-- 
+
 <hr>
 
 ## Formato Dati:
